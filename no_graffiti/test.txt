@@ -1,0 +1,1 @@
+You can store your images that dont't contain a graffiti here for training.
